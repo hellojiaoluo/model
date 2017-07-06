@@ -1,6 +1,6 @@
 <?php
 //1.命名空间 2.为了在不同的命名空间下使用相同的类名方法名
-namespace houdunwang\model;
+namespace jiaoluo\model;
 //1.使用PDO对象 2.因为不载入找不到会报错
 use PDO;
 //1.使用PDOException对象 2.因为不载入找不到会报错

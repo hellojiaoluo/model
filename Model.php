@@ -1,6 +1,6 @@
 <?php
 //1.命名空间 2.为了在不同的命名空间下使用相同的类名方法名
-namespace houdunwang\model;
+namespace jiaoluo\model;
 //1.定义一个类model 2.为了一次定义多次调用，使用方便
 class Model{
     //1.定义一个静态属性$config 2.因为页面多次调用，定义成属性使用方便
